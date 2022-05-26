@@ -1,0 +1,4 @@
+this is test file in branch_1
+
+new head
+show be  Revert -> message -> this
