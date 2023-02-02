@@ -11,3 +11,7 @@ RB-test-one
 after this push, make RB-test-two
 after this merged, rebase RB-test-two
 new line
+
+RB-test-one
+after this push, make RB-test-two
+after this merged, rebase RB-test-two
