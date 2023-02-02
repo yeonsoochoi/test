@@ -10,3 +10,6 @@ this from RB 1.3 second
 RB-test-first
 after this push, make RB-test-second
 after this merged, rebase RB-test-second
+
+RB-test-second
+after RB-test-first merged, it will be rebased
