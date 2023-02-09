@@ -12,3 +12,6 @@ after two made and before two commit
 after two push (make pr two -> one)
 
 after one merged
+
+
+is it make conflict???
