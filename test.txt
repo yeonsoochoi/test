@@ -1,4 +1,17 @@
-this is test file in branch_1
+erase this
 
-new head
-show be  Revert -> message -> this
+git add push again to main
+
+
+this from RB 1.3
+
+this from RB 1.3 second
+
+RB-test-one
+after this push, make RB-test-two
+after this merged, rebase RB-test-two
+new line
+
+RB-test-one
+after this push, make RB-test-two
+after this merged, rebase RB-test-two
